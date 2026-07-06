@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarya0901/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarya0901/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarya0901/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aarya0901/DSA_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarya0901/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
