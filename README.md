@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
