@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarya0901/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aarya0901/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarya0901/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Stack
 |  |
