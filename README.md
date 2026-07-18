@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aarya0901/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aarya0901/DSA_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aarya0901/DSA_leetcode/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarya0901/DSA_leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarya0901/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarya0901/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
