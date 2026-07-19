@@ -91,16 +91,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aarya0901/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aarya0901/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aarya0901/DSA_leetcode/tree/master/0567-permutation-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Aarya0901/DSA_leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
