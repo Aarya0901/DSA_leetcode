@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aarya0901/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Aarya0901/DSA_leetcode/tree/master/0289-game-of-life) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aarya0901/DSA_leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Aarya0901/DSA_leetcode/tree/master/0289-game-of-life) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aarya0901/DSA_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aarya0901/DSA_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Aarya0901/DSA_leetcode/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
