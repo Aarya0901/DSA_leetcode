@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aarya0901/DSA_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aarya0901/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aarya0901/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
