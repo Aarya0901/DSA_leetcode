@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aarya0901/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aarya0901/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarya0901/DSA_leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aarya0901/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarya0901/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aarya0901/DSA_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
