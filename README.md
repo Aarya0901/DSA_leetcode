@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aarya0901/DSA_leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aarya0901/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aarya0901/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Aarya0901/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Aarya0901/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Aarya0901/DSA_leetcode/tree/master/1768-merge-strings-alternately) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarya0901/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Aarya0901/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarya0901/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aarya0901/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aarya0901/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aarya0901/DSA_leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -198,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aarya0901/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
