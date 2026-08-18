@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aarya0901/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Aarya0901/DSA_leetcode/tree/master/0289-game-of-life) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aarya0901/DSA_leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/1140-stone-game-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aarya0901/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Aarya0901/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarya0901/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aarya0901/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aarya0901/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aarya0901/DSA_leetcode/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aarya0901/DSA_leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/Aarya0901/DSA_leetcode/tree/master/0881-boats-to-save-people) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aarya0901/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarya0901/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -241,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aarya0901/DSA_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
