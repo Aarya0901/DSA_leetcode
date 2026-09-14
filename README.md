@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarya0901/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Aarya0901/DSA_leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarya0901/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Aarya0901/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Aarya0901/DSA_leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aarya0901/DSA_leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarya0901/DSA_leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Aarya0901/DSA_leetcode/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aarya0901/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
